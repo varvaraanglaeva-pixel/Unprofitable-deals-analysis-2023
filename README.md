@@ -35,5 +35,5 @@
 ---
 
 ##  Файлы проекта
-- `Analysis of Losing Trades for 2023.pbix` — файл отчета Power BI 
+- `analysis_of_losing_trades.pbix` — файл отчета Power BI 
 - `sales_data.csv` — исходные данные
