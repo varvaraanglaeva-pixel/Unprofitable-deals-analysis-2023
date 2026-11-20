@@ -35,5 +35,5 @@
 ---
 
 ##  Файлы проекта
-- `analysis_of_losing_trades.pbix` — файл отчета Power BI 
-- `sales_data.csv` — исходные данные
+- analysis_of_losing_trades.pbix — файл отчета Power BI 
+- sales_data.csv — исходные данные
